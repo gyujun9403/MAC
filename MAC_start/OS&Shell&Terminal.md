@@ -35,7 +35,7 @@ Terminal은 콘솔과 달리 로컬뿐만이 아니라 원격으로 접속할 �
  https://neul-carpediem.tistory.com/48
  - z shell  
  bash shell의 대부분의 명령어가 호환되며 다양한 기능과 사용성을 제공하는 셸.
- bash에서 호완이 안되는 것?
+ bash에서 호완이 안되는 것
  
 ### C 셸 계열의 셸
  - C shell(csh)  
@@ -58,7 +58,14 @@ https://bit.ly/36Us8xN
 
 ## Shell 기타
 터미널에 표시되는 $는 프롬프트이다. 사용자의 명령을 받아들일 준비가 되었음을 표시해준다.
-프롬프트?
+프롬프트
+
+## Vim (향상된 vi편집기)
+https://wiki.ubuntu-kr.org/index.php/Vim  
+거의 모든 UNIX운영체제에서 사용되는 문자 편집기(에디터).
+잘만 깨우치면 마우스 없이 키보드만을 사용하여 편집을 수행할 수 있다(=생산성이 올라간다).
+원래 화살표를 염두해두고서 만든 프로그램이 아니므로 사용하지 않는게 좋다. 
+외울 필요가 있을 것은 따로 정리.
 
 ## 유닉스 macOS 리눅스 WindowOs
 https://bit.ly/2LxBSqo  
