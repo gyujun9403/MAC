@@ -60,6 +60,7 @@ Sites-사용자의 개인 사이트에서 사용하는 웹 페이지를 포함�
 ## 2. macOS 터미널 기본 명령어
 [참고 사이트 1](https://jisuhan.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-MIPS-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)  
 [참고 사이트 2](https://haloaround.tistory.com/7)  
+[관련 Apple 아카이브](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemOverview/FileSystemOverview.html#//apple_ref/doc/uid/TP40010672-CH2-SW7)  
 자세한 옵션 및 예제는 링크에 더 잘 나와있다. 여기서는 사용가능한 기능만 명시한다.  
 .현재 디렉토리
 ..부모 디렉토리
