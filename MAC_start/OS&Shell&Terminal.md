@@ -64,7 +64,7 @@ https://bit.ly/36Us8xN
 https://wiki.ubuntu-kr.org/index.php/Vim  
 거의 모든 UNIX운영체제에서 사용되는 문자 편집기(에디터). 잘만 깨우치면 마우스 없이 키보드만을 사용하여 편집을 수행할 수 있다(=생산성이 올라간다).  
 원래 화살표를 염두해두고서 만든 프로그램이 아니므로 사용하지 않는게 좋다.  
-각 모드와, 모드별 단축기는 따로 정리.
+[각 모드와, 모드별 단축기는 따로 정리.](https://github.com/gyujun9403/MAC/blob/master/MAC_start/about_vim.md)
 
 ## 유닉스 macOS 리눅스 WindowOs
 https://bit.ly/2LxBSqo  
@@ -76,7 +76,7 @@ apple에서 만든 유닉스가 macOS(유닉스)
 리눅스를 대중적으로 쉽게 만든게 우분투 리눅스  
 유닉스랑 전혀 상관없이 독자 개발이지만 가장 많이 쓰이는게 WindowOS
 
-##GUI와 CLI에 대한 구분
+## GUI와 CLI에 대한 구분
 GUI와 CLI는 유저와의 소통방식, 즉 인터페이스의 차이를 기준에 따른 구분이다.
 GUI는 그래픽을 통해 사용자와 소통하는 방식
 CLI는 텍스트(커맨드)를 통해 사용자와 소통하는 방식이다. CLI가 GUI에 비해 직관성이 떨어지지만 자원을 적게 소모한다.
