@@ -3,9 +3,11 @@ macOS 터미널 사용을 위한 디렉토리 구조 및 기본 명령어
 1. macOS 디텍토리 구조  
 1.1 표준 디텍토리  
 1.2 UNIX 고유 디텍토리
-2. macOS 기본 명령어
+2. macOS 기본 명령어  
+2.1 디렉토리 관련 명령어  
+2.2 파일 관련 명령어  
 
-디렉토리 = 폴더  
+디렉토리 = 폴더 = dir = DIR  
 # macOS 터미널 사용을 위한 디렉토리 구조 및 기본 명령어
 ## 1. macOS 디렉토리 구조
 [참고 사이트 1](https://xho95.github.io/macos/file-system/directory/2016/10/09/macOS-Directory-Structure.html)  
@@ -71,6 +73,7 @@ macOS 터미널 사용을 위한 디렉토리 구조 및 기본 명령어
 ## 2. macOS 터미널 기본 명령어
 [참고 사이트 1](https://jisuhan.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-MIPS-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)  
 [참고 사이트 2](https://haloaround.tistory.com/7)  
+[참고 사이트 3](https://withcoding.com/111)
 [관련 Apple 아카이브](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemOverview/FileSystemOverview.html#//apple_ref/doc/uid/TP40010672-CH2-SW7)  
 자세한 옵션 및 예제는 링크에 더 잘 나와있다. 여기서는 사용가능한 기능만 명시한다.  
 .현재 디렉토리  
@@ -79,7 +82,7 @@ macOS 터미널 사용을 위한 디렉토리 구조 및 기본 명령어
 ~홈 디렉토리  
 절대 및 상대 디렉토리에 대한 설명  
 &#91;&#93;    
-### 2.1 디렉토리 관련 명령어(목록, 생성, 제거)
+### 2.1 디렉토리 관련 명령어
 |내용|내용|옵션 및 기타|
 |---|---|---|
 |현재 dir의 <br>절대 경로 출력|pwd|
